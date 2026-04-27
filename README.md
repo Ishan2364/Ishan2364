@@ -11,11 +11,11 @@
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
       <h4>👨‍💻 About Me</h4>
       <p>I am a 3rd year undergrad student specializing in Data Science and Artificial Intelligence. My core focus lies in building autonomous <b>Agentic AI systems</b> and developing scalable applications.</p>
-      <p>When I'm not architecting LLM workflows, I'm consistently grinding Data Structures & Algorithms in <b>C++</b> to level up my problem-solving skills.</p>
+      <p>When I'm not architecting LLM workflows using open-source tools like Groq, I'm consistently grinding Data Structures & Algorithms in <b>C++</b> to level up my problem-solving skills.</p>
     </td>
     <td width="50%" valign="top" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
       <h4>⚡ GitHub Activity</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ishan2364&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -38,24 +38,24 @@
     </td>
     <td width="50%" valign="top" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
       <h4>🧠 Problem Solving</h4>
-      <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%"/>
+      <img src="https://leetcard.jacoblin.cool/SeriousRaven?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
       <h4>🚀 Featured Projects</h4>
       <ul>
-        <li>🏆 <b>WikiSentinel:</b> Real-time monitoring system for Wikipedia vandalism detection using multi-modal AI agents. <i>(Hackathon Winner)</i></li>
-        <li>🛍️ <b>NEXORA:</b> Retail-focused agentic AI system orchestrating 7 specialized agents (inventory, fulfillment, payment, etc.).</li>
-        <li>🛡️ <b>VeraVisage:</b> Face detection and liveness authentication system designed to prevent deepfake PAD attacks.</li>
-        <li>🩺 <b>ArogyAI:</b> Clinical note summarization and diagnostic assistance chatbot.</li>
+        <li>🏆 <b>WikiSentinel:</b> <i>(2nd Prize, Singularity Hackathon)</i> Real-time monitoring system fusing high-throughput stream processing with multi-modal AI agents to detect Wikipedia vandalism.</li>
+        <li>🛍️ <b>NEXORA:</b> Autonomous retail ecosystem driven by a 7-agent architecture (Supervisor, Inventory, Fulfillment, Loyalty, etc.) handling end-to-end user journeys.</li>
+        <li>🛡️ <b>VeraVisage:</b> Anti-deepfake authentication system utilizing MiniFASNetV2 for PAD attack prevention and active illumination for robust liveness detection.</li>
+        <li>🩺 <b>ArogyAI:</b> Clinical assistant powered by Agentic AI, delivering automated medical note summarization and preliminary diagnostic support.</li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
       <h4>🐍 Consistency Graph</h4>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan2364/Ishan2364/output/github-contribution-grid-snake-dark.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishan2364/Ishan2364/output/github-contribution-grid-snake.svg" width="100%">
       </picture>
       <br/>
       <p><i>Building and deploying every day.</i></p>
